@@ -1,2 +1,2 @@
 # Desafio01-JS
- Primeiro desafio javascript - curso em vídeo
+ Primeiro desafio com javascript - CV
