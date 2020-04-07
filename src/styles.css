@@ -1,0 +1,71 @@
+body{
+ font-family: Arial, Helvetica, sans-serif;   
+ background-color:rgb(61, 61, 61);
+ /* color: white;  */
+}
+
+header{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 22px;
+}
+
+#container{
+    height: 500px;
+    width: 600px;
+    border-radius: 30px;
+    background-color: aliceblue;
+    margin: auto;
+    padding: 15px;
+    align-items: center;
+    display: flex; 
+    /* flex-direction: row; */
+    text-align: center; 
+    justify-content: center;
+    align-items: center;
+}
+
+#button01{
+    height: 40px;
+    width: 160px;
+    box-shadow: none;
+    border:none!important;
+    background-color: rgb(0, 0, 99);
+    border-radius: 8px;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#button02{
+    height: 40px;
+    width: 160px;
+    box-shadow: none;
+    border:none!important;
+    background-color: rgb(97, 0, 21);
+    border-radius: 8px;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#button03{
+    height: 40px;
+    width: 160px;
+    box-shadow: none;
+    border:none!important;
+    background-color: rgb(0, 97, 21);
+    border-radius: 8px;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+footer{
+    color: white;
+    text-align: center;
+}
+
+
+
+
+
+
